@@ -1,0 +1,11 @@
+Designed a banking relational database model (30+ tables) to replace Excel-based reporting and improve performance, consistency, and auditability.
+
+Implemented the full database setup using DDL scripts (PK/FK relationships, normalized structure across core banking, loans, payments, compliance, and security modules).
+
+Generated 30,000+ synthetic rows to simulate realistic operational data (customers, accounts, transactions, loans, cards, AML/KYC, audit logs).
+
+Built KPI and fraud-monitoring queries to support reporting and risk analysis (e.g., top customers by balance, multi-loan customers, flagged fraud transactions, large/rapid transaction patterns).
+
+Packaged the solution into runnable SQL scripts + documentation for reproducible setup and future dashboard integration.
+
+Tech: SQL Server • T-SQL • Data Modeling • DDL/DML • Synthetic Data Generation • KPI Reporting • Fraud/Risk Analytics
